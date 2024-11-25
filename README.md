@@ -11,12 +11,6 @@ Key features include:
 - Clean and intuitive UI/UX styled with modern CSS.
 - Interactive elements and client-side functionalities implemented using JavaScript.
 
-## Requirements
-
-Node.js >= 14.0,
-npm >= 6.0,
-React >= 18.0,
-
 ## Access the app at:
 
 https://todayilearned-talluvton.netlify.app/
